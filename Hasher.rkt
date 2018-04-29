@@ -1,3 +1,8 @@
+;;MurmurHash3 Implementation in Racket
+;;Original Source: https://github.com/aappleby/smhasher
+
+
+
 #lang racket
 
 (provide (all-defined-out))
